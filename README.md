@@ -1,4 +1,4 @@
-# lDR-Classification-using-DCNN
+# DR-Classification-using-DCNN
 This is a DCNN model for detection and classification of Diabetic Retinopathy using retinal/fundus images.
 
 
